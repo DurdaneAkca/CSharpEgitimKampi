@@ -6,7 +6,7 @@ Main Subject projesinde console ekranına yazı yazdırmayı ve temel komutları
 
 📌 Proje-2: Variables (Değişkenler)
 
-2. proje olan Değişkenler projesinde; double, char, string, int, değişkenler üzerine çalışma yaptım. Ayrıca klavyeden veri ve karakter girişlerini tamamladım.
+İkinci proje olan Değişkenler projesinde; double, char, string, int, değişkenler üzerine çalışma yaptım. Ayrıca klavyeden veri ve karakter girişlerini tamamladım.
 
 📌Proje-3: Making Decision (Karar Yapıları)
 
