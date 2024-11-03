@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ForeachLoop", "07_Foreac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Methods", "08_Methods\08_Methods.csproj", "{AB0645B4-3787-439F-A0A3-3DF5D965726A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{5058238E-5F40-4F09-8034-F487827FE2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{A7E8ACE6-1C7E-4197-A1AC-BF29FC2CB9B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{AB0645B4-3787-439F-A0A3-3DF5D965726A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB0645B4-3787-439F-A0A3-3DF5D965726A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB0645B4-3787-439F-A0A3-3DF5D965726A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5058238E-5F40-4F09-8034-F487827FE2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5058238E-5F40-4F09-8034-F487827FE2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5058238E-5F40-4F09-8034-F487827FE2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5058238E-5F40-4F09-8034-F487827FE2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E8ACE6-1C7E-4197-A1AC-BF29FC2CB9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E8ACE6-1C7E-4197-A1AC-BF29FC2CB9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E8ACE6-1C7E-4197-A1AC-BF29FC2CB9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E8ACE6-1C7E-4197-A1AC-BF29FC2CB9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
